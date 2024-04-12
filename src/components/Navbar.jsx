@@ -7,26 +7,7 @@ import { ModeToggle } from "./mode-toggle";
 
 import * as React from "react";
 import Link from "next/link";
-import {
-  ArrowRight,
-  ChevronLeft,
-  ChevronRight,
-  Copy,
-  CreditCard,
-  File,
-  Home,
-  LineChart,
-  ListFilter,
-  MoreVertical,
-  Package,
-  Package2,
-  PanelLeft,
-  Search,
-  Settings,
-  ShoppingCart,
-  Truck,
-  Users2,
-} from "lucide-react";
+import { ArrowRight, Home, Settings } from "lucide-react";
 
 import {
   Tooltip,
